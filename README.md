@@ -12,7 +12,7 @@
 ##### Foram testados 3 exemplos.
 ###### Exemplos utilizados: 
 ###### Ex. 1: Input: Root = [1,8,23], Expected = 8
-###### Ex. 2: Input: Root = [10,8,12,8,15,13,18], Expected = 10
+###### Ex. 2: Input: Root = [2,2,5,5,7], Expected = 5
 ###### Ex. 3: Input: Root = [2,2,2147483647], Expected = 2147483647
 
 ## Mudanças no código
