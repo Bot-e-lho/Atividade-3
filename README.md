@@ -18,5 +18,5 @@
 ## Mudanças no código
 #### Após inúmeras tentativas, modificações tiveram que serem feitas, minimas modificações em comparação aos exercicios anteriores. Com o codigo feito em aula, a sua implementação deixava a desejar em nodos com valores gigantescos, portanto a lógica precisou ser alterada um pouco.
 ##### Link para o vídeo:
-###### <>
+###### <https://drive.google.com/drive/folders/1I0qUN3aI-NtV8byKuaCk3qysMAau5A8T?usp=sharing>
 ###### Obs.: Código feito em aula não compila. 
